@@ -1,5 +1,4 @@
 Selenium2Library
 SeleniumLibrary
 robot
-Python
 webdriver
