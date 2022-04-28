@@ -6,4 +6,4 @@ pip install robotframework-seleniumlibrary
 pip install robotframework-selenium2library
 
 # To run
-C:\dir> robot filename.robot
+C:\dir>robot filename.robot
