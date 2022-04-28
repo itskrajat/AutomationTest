@@ -1,9 +1,9 @@
 # AutomationTest
 Automation Testing using Python
 
-#install
+# install
 pip install robotframework-seleniumlibrary
 pip install robotframework-selenium2library
 
-#To run
+# To run
 C:\dir> robot <filename>.robot
